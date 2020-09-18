@@ -1,0 +1,29 @@
+.header {
+    background-color: cornflowerblue;
+    text-align: center;
+      
+    }
+
+    .about-me {
+        font-size: 20px;
+        background-position-x: center;
+    }
+
+    .title {
+        font-weight: bold;
+        list-style: square;
+    }
+
+    h1 {
+        color: azure;
+    }
+
+    body {
+        font-family: Georgia;
+       background-color: lightblue;
+       
+       
+    }
+
+   
+
